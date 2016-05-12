@@ -1,5 +1,5 @@
 # 飞龙博客 / Feilong Blog
-feilong's blog on github, https://github.com/jiu0/blog
+feilong's blog on github, https://github.com/jiaju99/blog
 
 所有博文均以 GitHub issue 的形式发布，点此阅读：
 
